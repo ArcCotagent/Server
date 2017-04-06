@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F08FED4846A26BAB3634B1926BF04CB213ED0572",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F08FED4846A26BAB3634B1926BF04CB213ED0572" : 9223372036854775807,
+    "A0FCAD41CFA0D33A637F00C3D2FD186F8B1D34D5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9A24D3B2-37F5-4461-A479-37D6ECED99A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F08FED4846A26BAB3634B1926BF04CB213ED0572" : "video-quickstart-swift\/",
+    "A0FCAD41CFA0D33A637F00C3D2FD186F8B1D34D5" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VideoQuickStart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VideoQuickStart.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ArcCotagent\/deKKo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0FCAD41CFA0D33A637F00C3D2FD186F8B1D34D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/twilio\/video-quickstart-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F08FED4846A26BAB3634B1926BF04CB213ED0572"
+    }
+  ]
+}
